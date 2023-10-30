@@ -1,0 +1,11 @@
+Base de datos:     SASDB
+Nombre de usuario: sa
+Contraseña:        yourStrong19Password
+Hostname:          localhost
+port:              1433
+Nombre tabla:      master
+
+//Desde SQL server Management Studio, crear una nueva base de datos
+nuevo usuario y contraseña
+
+"sqlserver://localhost:1433;database=SASDB;user=sa;password=yourStrong19Password;trustServerCertificate=true;connectionLimit=9;connectTimeout=0;poolTimeout=0"
